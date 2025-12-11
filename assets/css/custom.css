@@ -184,3 +184,59 @@ a[style*="border-radius: 8px"]:hover {
     padding: 10px 12px;
   }
 }
+
+/* Fix wide content on mobile */
+@media (max-width: 640px) {
+  .pros-cons {
+    grid-template-columns: 1fr;
+  }
+  
+  /* Force cards to single column on mobile */
+  div[style*="grid-template-columns: repeat(3"] {
+    grid-template-columns: 1fr !important;
+  }
+  
+  div[style*="grid-template-columns: repeat(2"] {
+    grid-template-columns: 1fr !important;
+  }
+  
+  div[style*="grid-template-columns: 1fr 1fr"] {
+    grid-template-columns: 1fr !important;
+  }
+  
+  div[style*="grid-template-columns: repeat(5"] {
+    grid-template-columns: repeat(3, 1fr) !important;
+  }
+  
+  /* Prevent overflow */
+  table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+  
+  /* Sticky nav wrap better */
+  div[style*="position: sticky"] {
+    padding: 8px !important;
+    gap: 6px !important;
+  }
+  
+  div[style*="position: sticky"] a {
+    padding: 4px 10px !important;
+    font-size: 0.7rem !important;
+  }
+  
+  /* Reduce padding on colored boxes */
+  div[style*="padding: 24px"] {
+    padding: 16px !important;
+  }
+  
+  /* Smaller headings */
+  h1 {
+    font-size: 1.75rem !important;
+  }
+  
+  h2 {
+    font-size: 1.25rem !important;
+  }
+}
