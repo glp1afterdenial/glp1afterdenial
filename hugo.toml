@@ -1,0 +1,204 @@
+# Site Configuration
+baseURL = "https://glp1afterdenial.com/"
+languageCode = "en"
+title = "GLP-1 After Denial"
+theme = "congo"
+
+# Enable emoji rendering
+enableEmoji = true
+
+# Build settings
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+
+# Taxonomies
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+# Markup
+[markup]
+  [markup.highlight]
+    noClasses = false
+  [markup.goldmark.renderer]
+    unsafe = true
+
+# Outputs
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+# =============================================================================
+# CONGO THEME CONFIGURATION
+# =============================================================================
+
+[params]
+  # Site metadata
+  description = "I lost access to Zepbound. Here's what I found — compounded options, telehealth platforms, and research peptides. Real experience, no BS."
+  keywords = ["semaglutide", "tirzepatide", "ozempic alternative", "zepbound alternative", "GLP-1", "weight loss"]
+  
+  # Color scheme: congo, avocado, cherry, fire, ocean, sapphire, slate
+  colorScheme = "ocean"
+  
+  # Appearance: light, dark, auto
+  defaultAppearance = "light"
+  
+  # Auto-switch based on visitor's system preference
+  autoSwitchAppearance = false
+  
+  # Enable search
+  enableSearch = true
+  
+  # Enable code copy buttons
+  enableCodeCopy = true
+  
+  # Main sections for recent content
+  mainSections = ["articles", "resources"]
+  
+  # Robots
+  robots = "index, follow"
+
+  # Date format
+  dateFormat = "January 2, 2006"
+
+  # Display reading time
+  showReadingTime = true
+  
+  # Show date on articles
+  showDate = true
+  
+  # Show author
+  showAuthor = false
+  
+  # Show breadcrumbs
+  showBreadcrumbs = true
+  
+  # Show table of contents
+  showTableOfContents = false
+  
+  # Show taxonomy on articles
+  showTaxonomies = true
+  
+  # Show word count
+  showWordCount = false
+  
+  # Show pagination
+  showPagination = true
+  
+  # Show related content
+  showRelatedContent = true
+  
+  # Related content limit
+  relatedContentLimit = 3
+
+  # Article settings
+  [params.article]
+    showTableOfContents = false
+    showRelatedContent = false
+    showTaxonomies = false
+    showAuthor = false
+    showDate = true
+    showReadingTime = true
+    showWordCount = false
+    sharingLinks = false
+
+  # List page settings
+  [params.list]
+    showTableOfContents = false
+    showTaxonomies = false
+    showSummary = true
+    showReadingTime = true
+    groupByYear = false
+    paginationWidth = 1
+
+  # Homepage settings
+  [params.homepage]
+    # Layout: page, profile, hero, card, background
+    layout = "page"
+    showRecent = false
+    showRecentItems = 0
+    showMoreLink = false
+
+  # Header settings
+  [params.header]
+    layout = "basic"  # basic, hamburger, hybrid, custom
+    # logo = "img/logo.png"  # Congo doesn't support SVG logos
+    showTitle = true
+
+  # Footer settings  
+  [params.footer]
+    showCopyright = true
+    showThemeAttribution = false
+    showAppearanceSwitcher = false
+    showScrollToTop = true
+
+# =============================================================================
+# MENUS
+# =============================================================================
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "my-story"
+    name = "My Story"
+    url = "/articles/my-journey/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "options"
+    name = "Your Options"
+    url = "/articles/glp1-options-ranked/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "telehealth"
+    name = "Telehealth"
+    url = "/articles/best-telehealth-glp1/"
+    weight = 30
+
+  [[menu.main]]
+    identifier = "guides"
+    name = "Guides"
+    url = "/resources/"
+    weight = 40
+
+  [[menu.footer]]
+    identifier = "privacy"
+    name = "Privacy"
+    url = "/legal/privacy/"
+    weight = 10
+
+  [[menu.footer]]
+    identifier = "disclosure"
+    name = "Affiliate Disclosure"
+    url = "/legal/disclosure/"
+    weight = 20
+
+  [[menu.footer]]
+    identifier = "disclaimer"
+    name = "Medical Disclaimer"
+    url = "/legal/disclaimer/"
+    weight = 30
+
+# =============================================================================
+# PRIVACY (for GDPR compliance)
+# =============================================================================
+
+[privacy]
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    disable = true
+  [privacy.instagram]
+    disable = true
+  [privacy.x]
+    disable = true
+  [privacy.vimeo]
+    disable = true
+  [privacy.youtube]
+    disable = true

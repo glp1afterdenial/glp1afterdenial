@@ -1,0 +1,37 @@
+[build]
+  publish = "public"
+  command = "hugo --minify --gc"
+
+[build.environment]
+  HUGO_VERSION = "0.139.0"
+  HUGO_ENV = "production"
+
+[context.production.environment]
+  HUGO_ENV = "production"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+
+[[redirects]]
+  from = "/options"
+  to = "/articles/glp1-options-ranked/"
+  status = 301
+
+[[redirects]]
+  from = "/telehealth"
+  to = "/articles/best-telehealth-glp1/"
+  status = 301
+
+[[redirects]]
+  from = "/reconstitution"
+  to = "/resources/how-to-reconstitute-peptides/"
+  status = 301
+
+[[redirects]]
+  from = "/guide"
+  to = "/resources/how-to-reconstitute-peptides/"
+  status = 301
