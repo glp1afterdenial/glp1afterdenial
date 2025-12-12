@@ -177,6 +177,8 @@ description: "Honest breakdown of every GLP-1 option — costs, quality, and who
 
 **Best for:** Experienced users, tight budgets, maintenance (like me).
 
+**Where to buy:** I use [Royal Peptides](https://royal-peptides.com/?ref=dbfqjmkf).
+
 <div style="background: #fef3c7; border: 2px solid #f59e0b; border-radius: 12px; padding: 20px; margin: 24px 0;">
 <strong style="color: #92400e;">⚠️ Not for beginners.</strong> <span style="color: #78350f;">If you've never been on GLP-1 medications, start with brand or telehealth so you have medical oversight.</span>
 </div>

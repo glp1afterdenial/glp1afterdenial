@@ -13,6 +13,9 @@ description: "Complete guide to mixing research peptides — supplies, calculati
 ## What You'll Need
 
 ### From the Peptide Supplier
+
+I use [Royal Peptides](https://royal-peptides.com/?ref=dbfqjmkf) for my peptides.
+
 - Lyophilized (freeze-dried) semaglutide or tirzepatide vial
 
 ### Supplies to Buy
