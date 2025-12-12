@@ -91,10 +91,11 @@ After trying a few vendors, this is who I use and recommend:
 
 | Product | Size | Price |
 |---------|------|-------|
-| [Semaglutide](https://royal-peptides.com/shop/semaglutide/?ref=dbfqjmkf) | 5mg | ~$55-65 |
-| [Semaglutide](https://royal-peptides.com/shop/semaglutide/?ref=dbfqjmkf) | 10mg | ~$85-95 |
-| [Tirzepatide](https://royal-peptides.com/shop/tirzepatide-vials/?ref=dbfqjmkf) | 10mg | ~$90-100 |
-| [Tirzepatide](https://royal-peptides.com/shop/tirzepatide-vials/?ref=dbfqjmkf) | 15mg | ~$110-120 |
+| [Semaglutide](https://royal-peptides.com/shop/semaglutide/?ref=dbfqjmkf) | 5mg | $45 |
+| [Semaglutide](https://royal-peptides.com/shop/semaglutide/?ref=dbfqjmkf) | 10mg | $75 |
+| [Tirzepatide](https://royal-peptides.com/shop/tirzepatide-vials/?ref=dbfqjmkf) | 10mg | $50 |
+| [Tirzepatide](https://royal-peptides.com/shop/tirzepatide-vials/?ref=dbfqjmkf) | 15mg | $75 |
+| [BPC-157](https://royal-peptides.com/shop/bpc-157-10mg-vial-kit/?ref=dbfqjmkf) | 10mg | $60 |
 
 <p style="font-size: 0.85rem; color: #64748b; margin-top: 8px;">*Prices may vary. Check site for current pricing.</p>
 
