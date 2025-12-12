@@ -1,8 +1,8 @@
 ---
-title: "Semaglutide & Tirzepatide Dosing Calculator: Units to Draw"
+title: "Semaglutide, Tirzepatide & Retatrutide Dosing Calculator"
 date: 2024-12-01
 description: "Free calculator for reconstituted peptides. Enter your vial size, BAC water amount, and desired dose — get exact units to draw on your insulin syringe."
-keywords: ["semaglutide dosing calculator", "tirzepatide dose calculator", "peptide reconstitution calculator", "how many units semaglutide"]
+keywords: ["semaglutide dosing calculator", "tirzepatide dose calculator", "retatrutide dosing calculator", "peptide reconstitution calculator", "how many units semaglutide"]
 ---
 
 Use this calculator to figure out your concentration after reconstitution and how many units to draw for your dose.
@@ -121,6 +121,26 @@ calculate();
 | 10mg | 100 units | 1.00 mL |
 | 12.5mg | 125 units | 1.25 mL |
 | 15mg | 150 units | 1.50 mL |
+
+### Retatrutide 10mg Vial + 2mL BAC Water (5 mg/mL)
+
+| Dose | Units to Draw | Volume |
+|------|---------------|--------|
+| 2mg | 40 units | 0.40 mL |
+| 4mg | 80 units | 0.80 mL |
+| 8mg | 160 units | 1.60 mL |
+| 12mg | 240 units | 2.40 mL |
+
+*Note: For doses above 100 units, you may need a larger syringe or split into two injections.*
+
+### Retatrutide 10mg Vial + 1mL BAC Water (10 mg/mL)
+
+| Dose | Units to Draw | Volume |
+|------|---------------|--------|
+| 2mg | 20 units | 0.20 mL |
+| 4mg | 40 units | 0.40 mL |
+| 8mg | 80 units | 0.80 mL |
+| 12mg | 120 units | 1.20 mL |
 
 ---
 
