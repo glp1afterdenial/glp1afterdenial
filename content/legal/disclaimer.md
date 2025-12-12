@@ -1,10 +1,10 @@
 ---
 title: "Medical Disclaimer"
-date: 2024-12-01
+date: 2025-12-01
 description: "Important health information disclaimer"
 ---
 
-*Last updated: December 2024*
+*Last updated: December 2025*
 
 ## Not Medical Advice
 

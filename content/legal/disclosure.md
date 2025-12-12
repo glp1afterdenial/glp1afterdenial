@@ -1,10 +1,10 @@
 ---
 title: "Affiliate Disclosure"
-date: 2024-12-01
+date: 2025-12-01
 description: "How I make money from this site"
 ---
 
-*Last updated: December 2024*
+*Last updated: December 2025*
 
 ## The Honest Truth
 

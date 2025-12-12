@@ -1,6 +1,6 @@
 ---
 title: "Retatrutide: The Triple Agonist That's Changing Weight Loss (2025 Guide)"
-date: 2024-12-12
+date: 2025-12-12
 description: "Retatrutide is the most powerful GLP-1 yet — a triple agonist targeting 3 hormones with up to 24% weight loss in trials. Here's everything you need to know."
 keywords: ["retatrutide", "triple agonist", "retatrutide vs tirzepatide", "buy retatrutide", "retatrutide weight loss", "GLP-1 GIP glucagon", "LY3437943"]
 ---

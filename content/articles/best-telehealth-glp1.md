@@ -1,6 +1,6 @@
 ---
 title: "Best Telehealth for GLP-1 Prescriptions Without Insurance (2025)"
-date: 2024-12-05
+date: 2025-12-05
 description: "Compare telehealth platforms for compounded semaglutide and tirzepatide prescriptions. Prices, legitimacy, and which ones are actually worth it."
 keywords: ["telehealth semaglutide", "online glp-1 prescription", "compounded semaglutide telehealth", "best telehealth weight loss"]
 ---

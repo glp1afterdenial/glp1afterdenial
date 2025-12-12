@@ -1,6 +1,6 @@
 ---
 title: "How to Reconstitute Peptides: Semaglutide, Tirzepatide & Retatrutide"
-date: 2024-12-01
+date: 2025-12-01
 description: "Complete guide to reconstituting (mixing) semaglutide, tirzepatide, and retatrutide peptides with bacteriostatic water. Supplies needed, step-by-step instructions, storage tips."
 keywords: ["how to reconstitute peptides", "reconstitute semaglutide", "reconstitute retatrutide", "mix peptides with bac water", "peptide reconstitution guide"]
 ---

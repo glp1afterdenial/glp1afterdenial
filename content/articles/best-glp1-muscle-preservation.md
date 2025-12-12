@@ -1,6 +1,6 @@
 ---
 title: "Best GLP-1 for Muscle Preservation: Why I Switched to Retatrutide"
-date: 2024-12-12
+date: 2025-12-12
 description: "All GLP-1s cause some muscle loss. But retatrutide's glucagon receptor may help preserve lean mass while burning fat. Here's the research and my experience."
 keywords: ["GLP-1 muscle loss", "retatrutide muscle preservation", "semaglutide muscle loss", "best GLP-1 for muscle", "tirzepatide lean mass", "GLP-1 and resistance training"]
 ---

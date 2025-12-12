@@ -1,6 +1,6 @@
 ---
 title: "GLP-1 Supplies Checklist: Everything You Need"
-date: 2024-12-10
+date: 2025-12-10
 description: "Complete shopping list for reconstituting and injecting semaglutide or tirzepatide peptides. Syringes, bacteriostatic water, sharps containers, and more."
 keywords: ["peptide supplies", "semaglutide supplies", "bacteriostatic water", "insulin syringes", "peptide reconstitution supplies"]
 ---

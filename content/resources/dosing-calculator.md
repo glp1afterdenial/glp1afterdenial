@@ -1,6 +1,6 @@
 ---
 title: "Semaglutide, Tirzepatide & Retatrutide Dosing Calculator"
-date: 2024-12-01
+date: 2025-12-01
 description: "Free calculator for reconstituted peptides. Enter your vial size, BAC water amount, and desired dose — get exact units to draw on your insulin syringe."
 keywords: ["semaglutide dosing calculator", "tirzepatide dose calculator", "retatrutide dosing calculator", "peptide reconstitution calculator", "how many units semaglutide"]
 ---

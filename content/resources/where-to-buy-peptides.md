@@ -1,6 +1,6 @@
 ---
 title: "Where to Buy Research Peptides: Semaglutide, Tirzepatide & Retatrutide"
-date: 2024-12-10
+date: 2025-12-10
 description: "Trusted research peptide vendors for semaglutide, tirzepatide, and retatrutide. What to look for, red flags to avoid, and where I actually buy."
 keywords: ["buy semaglutide peptide", "buy tirzepatide peptide", "buy retatrutide", "research peptides", "peptide vendors", "semaglutide source"]
 ---

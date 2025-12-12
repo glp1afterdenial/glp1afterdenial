@@ -1,10 +1,10 @@
 ---
 title: "Privacy Policy"
-date: 2024-12-01
+date: 2025-12-01
 description: "How we handle your data"
 ---
 
-*Last updated: December 2024*
+*Last updated: December 2025*
 
 ## The Short Version
 
