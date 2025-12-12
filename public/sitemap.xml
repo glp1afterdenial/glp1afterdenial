@@ -4,8 +4,22 @@
   
     
       <url>
+            <loc>http://localhost:1313/articles/</loc>
+            <lastmod>2024-12-12T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
             <loc>http://localhost:1313/</loc>
-            <lastmod>2024-12-10T00:00:00+00:00</lastmod>
+            <lastmod>2024-12-12T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/articles/retatrutide/</loc>
+            <lastmod>2024-12-12T00:00:00+00:00</lastmod>
           </url>
     
   
@@ -27,13 +41,6 @@
       <url>
             <loc>http://localhost:1313/resources/where-to-buy-peptides/</loc>
             <lastmod>2024-12-10T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/articles/</loc>
-            <lastmod>2024-12-09T00:00:00+00:00</lastmod>
           </url>
     
   

@@ -1,8 +1,8 @@
 ---
-title: "Where to Buy Research Peptides (Semaglutide & Tirzepatide)"
+title: "Where to Buy Research Peptides: Semaglutide, Tirzepatide & Retatrutide"
 date: 2024-12-10
-description: "Trusted research peptide vendors for semaglutide and tirzepatide. What to look for, red flags to avoid, and where I actually buy."
-keywords: ["buy semaglutide peptide", "buy tirzepatide peptide", "research peptides", "peptide vendors", "semaglutide source"]
+description: "Trusted research peptide vendors for semaglutide, tirzepatide, and retatrutide. What to look for, red flags to avoid, and where I actually buy."
+keywords: ["buy semaglutide peptide", "buy tirzepatide peptide", "buy retatrutide", "research peptides", "peptide vendors", "semaglutide source"]
 ---
 
 <div style="background: #fef3c7; border: 2px solid #f59e0b; border-radius: 12px; padding: 24px; margin-bottom: 32px;">
@@ -78,6 +78,7 @@ After trying a few vendors, this is who I use and recommend:
 **What they have:**
 - [Semaglutide](https://royal-peptides.com/shop/semaglutide/?ref=dbfqjmkf) (5mg, 10mg vials)
 - [Tirzepatide](https://royal-peptides.com/shop/tirzepatide-vials/?ref=dbfqjmkf) (5mg, 10mg, 15mg vials)
+- [Retatrutide](https://royal-peptides.com/shop/retatrutide-vial/?ref=dbfqjmkf) (5mg, 10mg+ vials) — the new triple agonist
 - [BPC-157](https://royal-peptides.com/shop/bpc-157-10mg-vial-kit/?ref=dbfqjmkf) (healing/recovery peptide)
 - Other research peptides
 
@@ -95,6 +96,8 @@ After trying a few vendors, this is who I use and recommend:
 | [Semaglutide](https://royal-peptides.com/shop/semaglutide/?ref=dbfqjmkf) | 10mg | $75 |
 | [Tirzepatide](https://royal-peptides.com/shop/tirzepatide-vials/?ref=dbfqjmkf) | 10mg | $50 |
 | [Tirzepatide](https://royal-peptides.com/shop/tirzepatide-vials/?ref=dbfqjmkf) | 15mg | $75 |
+| [Retatrutide](https://royal-peptides.com/shop/retatrutide-vial/?ref=dbfqjmkf) | 5mg | $55 |
+| [Retatrutide](https://royal-peptides.com/shop/retatrutide-vial/?ref=dbfqjmkf) | 10mg | $80 |
 | [BPC-157](https://royal-peptides.com/shop/bpc-157-10mg-vial-kit/?ref=dbfqjmkf) | 10mg | $60 |
 
 <p style="font-size: 0.85rem; color: #64748b; margin-top: 8px;">*Prices may vary. Check site for current pricing.</p>
@@ -137,6 +140,11 @@ Research peptides are the cheapest option but require you to:
 - Maintenance dose: 2.5-5mg/week  
 - Active weight loss: 5-15mg/week
 - A 15mg vial at active dose lasts 1-3 weeks
+
+**For retatrutide:**
+- Starting dose: 2mg/week (titrate up slowly)
+- Active weight loss: 4-12mg/week
+- A 10mg vial at starting dose lasts ~5 weeks
 
 → [Use the dosing calculator](/resources/dosing-calculator/) to figure out exactly what you need.
 

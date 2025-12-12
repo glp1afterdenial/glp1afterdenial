@@ -93,6 +93,16 @@ I lost Ozempic when insurance stopped covering it. After the weight came back, I
 
 </div>
 
+<div style="background: linear-gradient(135deg, #f5f3ff 0%, #ede9fe 100%); border: 2px solid #8b5cf6; border-radius: 12px; padding: 20px; margin: 32px 0;">
+<a href="/articles/retatrutide/" style="text-decoration: none; display: flex; align-items: center; gap: 16px;">
+<div style="font-size: 2rem;">🧬</div>
+<div>
+<div style="font-weight: 700; color: #6d28d9;">NEW: Retatrutide — The Triple Agonist</div>
+<div style="font-size: 0.9rem; color: #7c3aed;">24% weight loss in trials. The most powerful GLP-1 yet. →</div>
+</div>
+</a>
+</div>
+
 <div style="background: #fef3c7; border-radius: 12px; padding: 20px; margin: 32px 0; display: flex; gap: 16px; align-items: flex-start;">
 <div style="font-size: 1.5rem;">⚠️</div>
 <div>
