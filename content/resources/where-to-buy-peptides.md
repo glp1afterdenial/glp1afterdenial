@@ -148,6 +148,8 @@ Research peptides are the cheapest option but require you to:
 
 → [Use the dosing calculator](/resources/dosing-calculator/) to figure out exactly what you need.
 
+→ Worried about muscle loss? [Read: Best GLP-1 for Muscle Preservation](/articles/best-glp1-muscle-preservation/)
+
 ---
 
 ## My Typical Order

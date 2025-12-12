@@ -103,6 +103,16 @@ I lost Ozempic when insurance stopped covering it. After the weight came back, I
 </a>
 </div>
 
+<div style="background: linear-gradient(135deg, #ecfdf5 0%, #d1fae5 100%); border: 2px solid #10b981; border-radius: 12px; padding: 20px; margin: 32px 0;">
+<a href="/articles/best-glp1-muscle-preservation/" style="text-decoration: none; display: flex; align-items: center; gap: 16px;">
+<div style="font-size: 2rem;">💪</div>
+<div>
+<div style="font-weight: 700; color: #047857;">Best GLP-1 for Muscle Preservation</div>
+<div style="font-size: 0.9rem; color: #059669;">All GLP-1s cause muscle loss. Here's how to minimize it. →</div>
+</div>
+</a>
+</div>
+
 <div style="background: #fef3c7; border-radius: 12px; padding: 20px; margin: 32px 0; display: flex; gap: 16px; align-items: flex-start;">
 <div style="font-size: 1.5rem;">⚠️</div>
 <div>
