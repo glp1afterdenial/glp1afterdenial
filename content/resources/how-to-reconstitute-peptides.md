@@ -1,8 +1,8 @@
 ---
-title: "How to Reconstitute Peptides: Semaglutide & Tirzepatide Step-by-Step"
+title: "How to Reconstitute Peptides: Semaglutide, Tirzepatide & Retatrutide"
 date: 2024-12-01
-description: "Complete guide to reconstituting (mixing) semaglutide and tirzepatide peptides with bacteriostatic water. Supplies needed, step-by-step instructions, storage tips."
-keywords: ["how to reconstitute peptides", "reconstitute semaglutide", "mix peptides with bac water", "peptide reconstitution guide"]
+description: "Complete guide to reconstituting (mixing) semaglutide, tirzepatide, and retatrutide peptides with bacteriostatic water. Supplies needed, step-by-step instructions, storage tips."
+keywords: ["how to reconstitute peptides", "reconstitute semaglutide", "reconstitute retatrutide", "mix peptides with bac water", "peptide reconstitution guide"]
 ---
 
 <div style="background: #fef3c7; border-left: 4px solid #f59e0b; padding: 20px; margin-bottom: 32px; border-radius: 0 8px 8px 0;">
@@ -15,7 +15,7 @@ keywords: ["how to reconstitute peptides", "reconstitute semaglutide", "mix pept
 
 ### From the Peptide Supplier
 
-I use [Royal Peptides](https://royal-peptides.com/?ref=dbfqjmkf) — they have both [semaglutide](https://royal-peptides.com/shop/semaglutide/?ref=dbfqjmkf) (Ozempic/Wegovy) and [tirzepatide](https://royal-peptides.com/shop/tirzepatide-vials/?ref=dbfqjmkf) (Mounjaro/Zepbound).
+I use [Royal Peptides](https://royal-peptides.com/?ref=dbfqjmkf) — they have [semaglutide](https://royal-peptides.com/shop/semaglutide/?ref=dbfqjmkf), [tirzepatide](https://royal-peptides.com/shop/tirzepatide-vials/?ref=dbfqjmkf), and [retatrutide](https://royal-peptides.com/shop/retatrutide-vial/?ref=dbfqjmkf).
 
 - Lyophilized (freeze-dried) semaglutide or tirzepatide vial
 
@@ -80,6 +80,17 @@ desired dose (mg) ÷ concentration (mg/mL) × 100 = units
 | 5.0mg | 100 units |
 | 7.5mg | 150 units |
 | 10mg | 200 units |
+
+### Retatrutide 10mg + 2mL Water (5 mg/mL)
+
+| Dose | Draw This |
+|------|-----------|
+| 2mg | 40 units |
+| 4mg | 80 units |
+| 8mg | 160 units |
+| 12mg | 240 units |
+
+*Note: For doses above 100 units, you may need a larger syringe or split into two injections.*
 
 ---
 
@@ -178,6 +189,15 @@ Solution should be **clear**. If cloudy or has particles, don't use.
 | 9-12 | 7.5mg | Once weekly |
 | 13+ | 10-15mg | Once weekly |
 
+### Retatrutide (Typical Titration)
+
+| Weeks | Dose | Frequency |
+|-------|------|-----------|
+| 1-4 | 2mg | Once weekly |
+| 5-8 | 4mg | Once weekly |
+| 9-12 | 8mg | Once weekly |
+| 13+ | 8-12mg | Once weekly |
+
 <div style="background: #f0fdf4; border-radius: 8px; padding: 16px; margin: 24px 0;">
 
 💡 **Tip:** Go slower if side effects are rough. Many people maintain at lower doses than the max.
@@ -226,6 +246,10 @@ Solution should be **clear**. If cloudy or has particles, don't use.
 - Decreased appetite
 - Constipation or diarrhea
 - Fatigue
+
+**Retatrutide-specific:**
+- Mild increase in heart rate (5-10 bpm) due to glucagon activation
+- May feel more "energized"
 
 **Managing them:**
 - Start low, increase slowly
