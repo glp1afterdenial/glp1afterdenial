@@ -14,7 +14,7 @@ description: "Complete guide to mixing research peptides — supplies, calculati
 
 ### From the Peptide Supplier
 
-I use [Royal Peptides](https://royal-peptides.com/?ref=dbfqjmkf) for my peptides.
+I use [Royal Peptides](https://royal-peptides.com/?ref=dbfqjmkf) — they have both [semaglutide](https://royal-peptides.com/shop/semaglutide/?ref=dbfqjmkf) (Ozempic/Wegovy) and [tirzepatide](https://royal-peptides.com/shop/tirzepatide-vials/?ref=dbfqjmkf) (Mounjaro/Zepbound).
 
 - Lyophilized (freeze-dried) semaglutide or tirzepatide vial
 
