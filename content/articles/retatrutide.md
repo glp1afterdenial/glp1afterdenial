@@ -237,6 +237,14 @@ Similar to other GLP-1s, but the glucagon component adds some differences:
 
 ---
 
+## My Experience So Far
+
+I recently switched to retatrutide after being on semaglutide. My main reason? Muscle preservation. The glucagon receptor activation may help maintain lean mass during weight loss, and with CrossFit being a big part of my routine, that matters to me.
+
+So far, the side effects have been about the same as semaglutide — nothing worse. I'll update this as I go.
+
+---
+
 ## Where to Buy Retatrutide
 
 I use [Royal Peptides](https://royal-peptides.com/?ref=dbfqjmkf) for research peptides:
