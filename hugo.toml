@@ -3,6 +3,7 @@ baseURL = "https://glp1afterdenial.com/"
 languageCode = "en"
 title = "GLP-1 After Denial"
 theme = "congo"
+googleAnalytics = "G-L1XQXZEV2Z"
 
 # Enable emoji rendering
 enableEmoji = true
