@@ -1,8 +1,8 @@
 ---
-title: "Compounded Semaglutide vs Wegovy: What's the Difference?"
-date: 2024-12-01
-description: "Complete comparison of compounded semaglutide vs brand-name Wegovy — cost, quality, effectiveness, and which one is right for you"
-tags: ["semaglutide", "wegovy", "compounded", "comparison"]
+title: "Compounded Semaglutide vs Wegovy: What's the Difference? (2025)"
+date: 2024-12-09
+description: "Compounded semaglutide vs brand Wegovy: cost comparison, safety differences, and which one is right for you. From someone who's used both options."
+keywords: ["compounded semaglutide vs wegovy", "is compounded semaglutide safe", "wegovy alternatives", "compounded vs brand semaglutide"]
 ---
 
 <div style="position: sticky; top: 0; z-index: 50; background: rgba(255,255,255,0.97); backdrop-filter: blur(8px); border-bottom: 1px solid #e2e8f0; padding: 12px 0; margin: 0 0 24px 0; display: flex; gap: 8px; flex-wrap: wrap; justify-content: center;">

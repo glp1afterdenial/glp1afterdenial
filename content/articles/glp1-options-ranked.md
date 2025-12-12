@@ -1,7 +1,8 @@
 ---
-title: "GLP-1 Options: Brand vs Compounded vs Research"
-date: 2024-12-01
-description: "Honest breakdown of every GLP-1 option — costs, quality, and who each is best for"
+title: "GLP-1 Options Without Insurance: Brand vs Compounded vs Peptides (2025)"
+date: 2024-12-08
+description: "Compare all GLP-1 options when insurance won't cover: LillyDirect brand ($299-449), telehealth compounded ($100-250), and research peptides ($50-150). Honest breakdown."
+keywords: ["glp-1 without insurance", "ozempic alternatives", "zepbound without insurance", "compounded semaglutide", "cheapest glp-1"]
 ---
 
 <div style="position: sticky; top: 0; z-index: 50; background: rgba(255,255,255,0.97); backdrop-filter: blur(8px); border-bottom: 1px solid #e2e8f0; padding: 12px 0; margin: 0 0 24px 0; display: flex; gap: 8px; flex-wrap: wrap; justify-content: center;">

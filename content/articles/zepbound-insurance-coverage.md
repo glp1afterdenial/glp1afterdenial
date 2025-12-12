@@ -1,8 +1,8 @@
 ---
 title: "How to Get Zepbound Covered by Insurance (And What to Do If You Can't)"
-date: 2024-12-01
-description: "Step-by-step guide to getting Zepbound approved by insurance, including prior authorization tips, qualifying conditions, and alternatives when you're denied"
-tags: ["zepbound", "insurance", "prior authorization", "tirzepatide"]
+date: 2024-12-09
+description: "Step-by-step guide to getting Zepbound covered by insurance: qualifying conditions, prior authorization tips, and self-pay alternatives if you're denied."
+keywords: ["zepbound insurance coverage", "get zepbound covered", "zepbound prior authorization", "insurance denied zepbound"]
 ---
 
 <div style="position: sticky; top: 0; z-index: 50; background: rgba(255,255,255,0.97); backdrop-filter: blur(8px); border-bottom: 1px solid #e2e8f0; padding: 12px 0; margin: 0 0 24px 0; display: flex; gap: 8px; flex-wrap: wrap; justify-content: center;">

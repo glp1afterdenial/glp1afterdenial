@@ -1,7 +1,8 @@
 ---
-title: "Best Telehealth Platforms for GLP-1s (2025)"
-date: 2024-12-01
-description: "Comparing online prescribers for semaglutide — pricing, quality, and red flags"
+title: "Best Telehealth for GLP-1 Prescriptions Without Insurance (2025)"
+date: 2024-12-05
+description: "Compare telehealth platforms for compounded semaglutide and tirzepatide prescriptions. Prices, legitimacy, and which ones are actually worth it."
+keywords: ["telehealth semaglutide", "online glp-1 prescription", "compounded semaglutide telehealth", "best telehealth weight loss"]
 ---
 
 <div style="position: sticky; top: 0; z-index: 50; background: rgba(255,255,255,0.97); backdrop-filter: blur(8px); border-bottom: 1px solid #e2e8f0; padding: 12px 0; margin: 0 0 24px 0; display: flex; gap: 8px; flex-wrap: wrap; justify-content: center;">

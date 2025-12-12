@@ -1,9 +1,8 @@
 ---
-title: "Peptide Dosing Calculator"
-description: "Calculate your reconstitution concentration and syringe units for semaglutide and tirzepatide"
+title: "Semaglutide & Tirzepatide Dosing Calculator: Units to Draw"
 date: 2024-12-01
-tags: ["calculator", "dosing", "tools"]
-weight: 2
+description: "Free calculator for reconstituted peptides. Enter your vial size, BAC water amount, and desired dose — get exact units to draw on your insulin syringe."
+keywords: ["semaglutide dosing calculator", "tirzepatide dose calculator", "peptide reconstitution calculator", "how many units semaglutide"]
 ---
 
 Use this calculator to figure out your concentration after reconstitution and how many units to draw for your dose.

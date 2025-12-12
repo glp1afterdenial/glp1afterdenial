@@ -1,8 +1,8 @@
 ---
-title: "LillyDirect Review: Is Zepbound Worth $299-449/Month?"
-date: 2024-12-01
-description: "Honest review of LillyDirect for Zepbound — pricing, how it works, pros and cons, and whether it's worth the cost compared to alternatives"
-tags: ["lillydirect", "zepbound", "tirzepatide", "review"]
+title: "LillyDirect Review 2025: Is Zepbound Worth $299-449/Month?"
+date: 2024-12-09
+description: "Honest LillyDirect review from someone who uses it. Pricing breakdown, signup process, what's included, and whether it's worth the cost vs alternatives."
+keywords: ["lillydirect review", "zepbound cost", "lillydirect pricing", "zepbound without insurance", "is lillydirect legit"]
 ---
 
 <div style="position: sticky; top: 0; z-index: 50; background: rgba(255,255,255,0.97); backdrop-filter: blur(8px); border-bottom: 1px solid #e2e8f0; padding: 12px 0; margin: 0 0 24px 0; display: flex; gap: 8px; flex-wrap: wrap; justify-content: center;">

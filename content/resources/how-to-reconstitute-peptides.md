@@ -1,7 +1,8 @@
 ---
-title: "How to Reconstitute Peptides (Step-by-Step)"
+title: "How to Reconstitute Peptides: Semaglutide & Tirzepatide Step-by-Step"
 date: 2024-12-01
-description: "Complete guide to mixing research peptides — supplies, calculations, injection technique"
+description: "Complete guide to reconstituting (mixing) semaglutide and tirzepatide peptides with bacteriostatic water. Supplies needed, step-by-step instructions, storage tips."
+keywords: ["how to reconstitute peptides", "reconstitute semaglutide", "mix peptides with bac water", "peptide reconstitution guide"]
 ---
 
 <div style="background: #fef3c7; border-left: 4px solid #f59e0b; padding: 20px; margin-bottom: 32px; border-radius: 0 8px 8px 0;">
