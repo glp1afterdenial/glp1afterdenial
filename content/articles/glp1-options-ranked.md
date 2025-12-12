@@ -75,6 +75,8 @@ description: "Honest breakdown of every GLP-1 option — costs, quality, and who
 
 **How to access:** Get prescription from your doctor → [lillydirect.lilly.com](https://lillydirect.lilly.com)
 
+[→ Full LillyDirect review](/articles/lillydirect-review/)
+
 ---
 
 <h2 id="telehealth" style="border-left: 4px solid #22c55e; padding-left: 16px;">🏥 Option 2: Telehealth Compounded</h2>
@@ -128,7 +130,9 @@ description: "Honest breakdown of every GLP-1 option — costs, quality, and who
 
 **Best for:** Want a prescription but can't afford brand. Uncomfortable with research peptides.
 
-[→ Full telehealth comparison](/articles/best-telehealth-glp1/)
+**Wondering about quality?** Compounded uses the same active ingredient as brand-name Wegovy.
+
+[→ Full telehealth comparison](/articles/best-telehealth-glp1/) · [→ Compounded vs Wegovy explained](/articles/compounded-semaglutide-vs-wegovy/)
 
 ---
 
@@ -212,7 +216,7 @@ description: "Honest breakdown of every GLP-1 option — costs, quality, and who
 
 ## What About Insurance?
 
-Most insurance doesn't cover weight loss medications. Conditions that can help:
+Most insurance doesn't cover weight loss medications. But it's worth checking — some plans do cover Zepbound with prior authorization, especially if you have qualifying conditions.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 8px; margin: 16px 0;">
 <div style="background: #f1f5f9; padding: 12px; border-radius: 8px; text-align: center; font-size: 0.9rem;">Sleep Apnea</div>
@@ -224,6 +228,31 @@ Most insurance doesn't cover weight loss medications. Conditions that can help:
 </div>
 
 **My experience:** I tried to get Zepbound covered but finding doctors to write prior auths was a hassle, and my insurance didn't cover weight loss anyway. Self-pay ended up being less stressful.
+
+[→ Full insurance coverage guide](/articles/zepbound-insurance-coverage/)
+
+---
+
+## Related Articles
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 12px; margin: 20px 0;">
+
+<a href="/articles/lillydirect-review/" style="display: block; background: #f8fafc; border: 2px solid #e2e8f0; border-radius: 8px; padding: 16px; text-decoration: none;">
+<div style="font-weight: 700; color: #0f172a;">LillyDirect Review</div>
+<div style="font-size: 0.85rem; color: #64748b;">Is it worth $299-449/month?</div>
+</a>
+
+<a href="/articles/compounded-semaglutide-vs-wegovy/" style="display: block; background: #f8fafc; border: 2px solid #e2e8f0; border-radius: 8px; padding: 16px; text-decoration: none;">
+<div style="font-weight: 700; color: #0f172a;">Compounded vs Wegovy</div>
+<div style="font-size: 0.85rem; color: #64748b;">What's the difference?</div>
+</a>
+
+<a href="/articles/zepbound-insurance-coverage/" style="display: block; background: #f8fafc; border: 2px solid #e2e8f0; border-radius: 8px; padding: 16px; text-decoration: none;">
+<div style="font-weight: 700; color: #0f172a;">Insurance Coverage Guide</div>
+<div style="font-size: 0.85rem; color: #64748b;">How to get approved (or what to do if denied)</div>
+</a>
+
+</div>
 
 ---
 

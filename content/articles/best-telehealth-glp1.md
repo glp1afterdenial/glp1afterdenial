@@ -101,6 +101,8 @@ Can prescribe actual brand medication, integrates with LillyDirect pricing.
 
 **Best for:** People who want brand medication with telehealth convenience
 
+[→ Full LillyDirect review](/articles/lillydirect-review/)
+
 ---
 
 <h2 id="red-flags" style="border-left: 4px solid #ef4444; padding-left: 16px;">🚩 Red Flags to Avoid</h2>
@@ -163,6 +165,8 @@ Can prescribe actual brand medication, integrates with LillyDirect pricing.
 
 **Does it work the same?** For most people, yes. But absorption may vary slightly. If switching from brand to compounded, pay attention to how your body responds.
 
+[→ Full comparison: Compounded vs Wegovy](/articles/compounded-semaglutide-vs-wegovy/)
+
 ---
 
 ## The LillyDirect Route
@@ -182,6 +186,8 @@ If you want **brand-name Zepbound** specifically:
 </div>
 </div>
 
+[→ Full LillyDirect review](/articles/lillydirect-review/)
+
 ---
 
 ## My Take
@@ -191,6 +197,31 @@ I used **Zepbound through LillyDirect** during my weight loss phase — I wanted
 For maintenance, I switched to research peptides because the cost savings matter when you're on something indefinitely.
 
 Telehealth compounded is a solid middle ground if brand is too expensive and research peptides feel too DIY.
+
+[→ Read my full story](/articles/my-journey/)
+
+---
+
+## Related Articles
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 12px; margin: 20px 0;">
+
+<a href="/articles/compounded-semaglutide-vs-wegovy/" style="display: block; background: #f8fafc; border: 2px solid #e2e8f0; border-radius: 8px; padding: 16px; text-decoration: none;">
+<div style="font-weight: 700; color: #0f172a;">Compounded vs Wegovy</div>
+<div style="font-size: 0.85rem; color: #64748b;">Same drug? What's the difference?</div>
+</a>
+
+<a href="/articles/lillydirect-review/" style="display: block; background: #f8fafc; border: 2px solid #e2e8f0; border-radius: 8px; padding: 16px; text-decoration: none;">
+<div style="font-weight: 700; color: #0f172a;">LillyDirect Review</div>
+<div style="font-size: 0.85rem; color: #64748b;">Is brand worth the price?</div>
+</a>
+
+<a href="/articles/glp1-options-ranked/" style="display: block; background: #f8fafc; border: 2px solid #e2e8f0; border-radius: 8px; padding: 16px; text-decoration: none;">
+<div style="font-weight: 700; color: #0f172a;">All Options Compared</div>
+<div style="font-size: 0.85rem; color: #64748b;">Brand vs compounded vs research</div>
+</a>
+
+</div>
 
 ---
 

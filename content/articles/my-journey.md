@@ -65,6 +65,8 @@ After gaining the weight back, I knew I needed to get back on medication. I look
 
 So I skipped the headache. My doctor prescribed Zepbound for weight loss and I went straight to **self-pay using my HSA**. LillyDirect made it available at lower prices than the crazy list price.
 
+[→ Full guide: How to get Zepbound covered (or what to do if you can't)](/articles/zepbound-insurance-coverage/)
+
 <div style="background: #f8fafc; border-radius: 12px; padding: 20px; margin: 24px 0;">
 <h4 style="margin: 0 0 16px 0;">Zepbound vs Ozempic — My Experience</h4>
 
@@ -79,6 +81,8 @@ So I skipped the headache. My doctor prescribed Zepbound for weight loss and I w
 </div>
 
 I worked up to **5mg** — that was my sweet spot.
+
+[→ Full LillyDirect review](/articles/lillydirect-review/)
 
 <h2 id="peptides-now" style="border-left: 4px solid #8b5cf6; padding-left: 16px; margin-top: 48px;">Now: Maintenance on Research Peptides</h2>
 
@@ -101,6 +105,8 @@ I chose **research peptides** — lower dose, much cheaper ($50-150/month).
 </div>
 
 But I'd already been on both medications, knew how my body responded, and only needed a low maintenance dose. It's working for me.
+
+[→ How to reconstitute peptides](/resources/how-to-reconstitute-peptides/) · [→ Dosing calculator](/resources/dosing-calculator/)
 
 <h2 id="lessons" style="border-left: 4px solid #f59e0b; padding-left: 16px; margin-top: 48px;">What I Wish I'd Known</h2>
 
@@ -126,6 +132,8 @@ But I'd already been on both medications, knew how my body responded, and only n
 
 But be warned — finding doctors willing to write prior authorizations can be a hassle, and even then your plan might just not cover it. I eventually decided self-pay was less stressful.
 
+[→ Full insurance coverage guide](/articles/zepbound-insurance-coverage/)
+
 <div style="background: #f0f9ff; border-radius: 12px; padding: 20px; margin: 24px 0;">
 <h4 style="margin: 0 0 12px 0; color: #0369a1;">💰 LillyDirect Pricing (Late 2025)</h4>
 <ul style="margin: 0; padding-left: 20px; color: #0c4a6e;">
@@ -135,6 +143,8 @@ But be warned — finding doctors willing to write prior authorizations can be a
 </ul>
 <p style="margin: 12px 0 0 0; color: #64748b; font-size: 0.9rem;">Not cheap, but way less than the $1,000+ list price. HSA makes it pre-tax.</p>
 </div>
+
+[→ Full LillyDirect review](/articles/lillydirect-review/)
 
 <h2 style="border-left: 4px solid #0ea5e9; padding-left: 16px; margin-top: 48px;">Where I Am Now</h2>
 
